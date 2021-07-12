@@ -15,17 +15,3 @@ Java 11 ou versões superiores.
 Maven 3.6.3 ou versões superiores.
 Intellj IDEA Community Edition
 Controle de versão GIT
-
-Abaixo, seguem links bem bacanas.
-
-SDKMan! para gerenciamento e instalação do Java e Maven
-Referência do Intellij IDEA Community, para download
-Palheta de atalhos de comandos do Intellij
-Site oficial do Spring
-Site oficial JUnit 5
-Site oficial Mockito
-Site oficial Hamcrest
-Referências - testes em geral com o Spring Boot
-Referência para o padrão arquitetural REST
-Referência pirâmide de testes - Martin Fowler
-Neste link, seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
